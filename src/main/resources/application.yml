@@ -1,0 +1,5 @@
+server:
+  servlet:
+    context-path: /test-web2
+
+  port: 9090
